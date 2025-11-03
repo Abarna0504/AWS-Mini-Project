@@ -1,5 +1,0 @@
-Serverless Online Learning Platform using AWS Services.
-This project is a cloud-based Online Learning Platform built using AWS services.Students can enroll, browse courses, watch videos, and track their progress online.The platform uses a serverless architecture with S3, Lambda, API Gateway, DynamoDB, and SES.
-The system ensures scalability, low cost, and zero server maintenance using AWS cloud tools.
-
-
